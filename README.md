@@ -30,7 +30,7 @@ I’m a dedicated software developer with a deep passion for creating effective 
 
 ## 🌐 Connect with Me
 
-- - **LinkedIn**  
+- **LinkedIn**  
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/brayan-conde-softwaredeveloper)
 
 ---
