@@ -1,6 +1,8 @@
 
 # 👋 Hello! I'm Brayan Conde Echavarría
 
+![Coding](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+
 **🎯 Passionate Software Developer | Problem Solver | Lifelong Learner**
 
 I’m a dedicated software developer with a deep passion for creating effective and innovative digital solutions. My journey in the world of programming includes hands-on experience with various modern technologies, and I’m constantly expanding my skill set. Below is a bit about my tech stack and professional presence!
