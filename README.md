@@ -45,7 +45,6 @@ I’m a dedicated software developer with a deep passion for creating effective 
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BrayanCondee&show_icons=true&theme=radical)
-![GitHub Streak](https://streak-stats.demolab.com/?user=BrayanCondee&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BrayanCondee&layout=compact&theme=radical)
 
 ## 🏆 GitHub Trophies
