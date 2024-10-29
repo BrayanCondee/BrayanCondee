@@ -9,7 +9,7 @@ I’m a dedicated software developer with a deep passion for creating effective 
 
 ---
 
-## 🛠️ Technologies & Tools
+## 🛠️ Technologies
 
 - **Languages**  
   ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
