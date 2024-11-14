@@ -1,7 +1,7 @@
 
 # 👋 Hello! I am Brayan Conde Echavarría
 
-![Coding](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+![Black and Yellow Web Developer LinkedIn Banner(1)](https://github.com/user-attachments/assets/3ae490ae-4bd5-4ef3-96d6-2f0c98fd2178)
 
 **🎯 Passionate Software Developer | Problem Solver | Lifelong Learner**
 
